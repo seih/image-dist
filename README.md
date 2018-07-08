@@ -1,2 +1,4 @@
-# Using Docker Code Examples
-## "Image Distribution"
+identidock
+==========
+
+オライリーの『Docker』より。
